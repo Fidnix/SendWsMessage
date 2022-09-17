@@ -1,3 +1,6 @@
+# Autor: Fidencio José Perez Alcanteres de la Guardia
+# El que se robe la propiedad de este archivo es gei
+
 import pyautogui as pg, webbrowser as web, time as tm
 from random import randint
 import keyboard
